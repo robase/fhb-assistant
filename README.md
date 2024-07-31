@@ -1,20 +1,15 @@
-<h1 align="center">
-  <br>
-  <a href="http://firsthomebuyer.help"><img height="200" src="https://raw.githubusercontent.com/robase/fhb-assistant/main/public/cover.jpg" alt="FHB Assistant"></a>
-  <br>
-  <a href="http://chat.firsthomebuyer.help">FHB Assistant</a>
-  <br>
-  <br>
-</h1>
-
+<h1 align="center"> <a href="http://chat.firsthomebuyer.help">FHB Assistant</a></h1>
 <h4 align="center">A Retrieval Augmented Generation (RAG) based chat assistant for Australian first home buyers</h4>
-
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#how-it-works">How it works</a> •
   <a href="#development">Development</a>
 </p>
+<h6 align="center">
 
+https://github.com/user-attachments/assets/8f74690f-b256-417d-add6-8b4c354e05e2
+
+</h6>
 
 ### Overview
 
