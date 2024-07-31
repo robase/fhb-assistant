@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://firsthomebuyer.help"><img height="200" src="https://raw.githubusercontent.com/robase/chat-fhb/main/public/cover.jpg" alt="FHB Assistant"></a>
+  <a href="http://firsthomebuyer.help"><img height="200" src="https://raw.githubusercontent.com/robase/fhb-assistant/main/public/cover.jpg" alt="FHB Assistant"></a>
   <br>
   <a href="http://chat.firsthomebuyer.help">FHB Assistant</a>
   <br>
