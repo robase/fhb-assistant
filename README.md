@@ -20,7 +20,7 @@ FHB Assistant is loaded with up to date, context specific information to provide
 
 FBH Assistant uses retrieval augmented generation (RAG), which is just a fancy term for the manipulation of prompts to provide relevant information to an LLM when a question is asked. An LLM will (hopefully) hallucinate less if the answer to the user's question is presented to it in the same prompt as the question. 
 
-Quick overview:
+#### Quick overview:
 
 1. Documents containing context relevant information are split into smaller overlapping chunks of text
 2. Each chunk is vectorised via an embeddings model which returns an n dimensional vector representing a text chunk's position in space relative to all other chunks containing similar content in meaning 
@@ -30,6 +30,8 @@ Quick overview:
 5. Look up the top x closest text chunks to the question from the database using a distance function e.g. cosine distance
 6. Prepend the user's question with the context from the text chunks and send it to an LLM
 7. The LLM will answer the question based on the context provided, providing answers based on content from the original documents
+
+#### Refinement
 
 Some intermediate prompt refinement steps used to increase output quality, for example: 
 - contextualising a user prompt based on the chat history and, 
