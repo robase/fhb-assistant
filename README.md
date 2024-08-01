@@ -5,11 +5,12 @@
   <a href="#how-it-works">How it works</a> •
   <a href="#development">Development</a>
 </p>
-<h6 align="center">
+
+<div align="center">
 
 https://github.com/user-attachments/assets/8f74690f-b256-417d-add6-8b4c354e05e2
 
-</h6>
+</viv>
 
 ### Overview
 
